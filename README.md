@@ -78,3 +78,6 @@ Test Case 2 :
         "value": "642121030037605"
     }
 }
+
+
+The code has been updated for test case 2 and the number of incorrect points shared are 6 and 7.
