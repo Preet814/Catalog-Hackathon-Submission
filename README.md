@@ -80,4 +80,4 @@ Test Case 2 :
 }
 
 
-The code has been updated for test case 2 and the number of incorrect points shared are 6 and 7.
+The index.html file has been updated for test case 2 and the number of incorrect points shared are 6 and 7.
